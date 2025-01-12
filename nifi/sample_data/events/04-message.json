@@ -1,0 +1,10 @@
+{
+    "source_system": "fulfilmentSystem",
+    "message_type": "orderSubmitted",
+    "message_content": {
+        "Item": "Thingamajig",
+        "Quantity": "1",
+        "Customer": "Ernie",
+        "Store": "Oban"
+    }
+}
